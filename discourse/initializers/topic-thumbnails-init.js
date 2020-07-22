@@ -57,7 +57,7 @@ export default {
       topicThumbnailsService: service("topic-thumbnails"),
 
       masonryTargetColumnWidth: 300,
-      masonryGridSpacingPixels: 50,
+      masonryGridSpacingPixels: 40,
       masonryTitleSpacePixels: 76,
       masonryDefaultAspect: 1.3,
       masonryMinAspect: 0.7,
